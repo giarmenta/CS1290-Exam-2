@@ -1,5 +1,5 @@
 def br(n):
-    dp = [[0] * n for x in range(n)]
+    dp = [i for i in range(n + 1)]
     for i in range(1, n):
         for j in range(1, i+1):
             if i + j <= n:
