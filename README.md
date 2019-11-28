@@ -1,3 +1,10 @@
+# MADE A MISTAKE WHEN UPLOADING THE README AND THE CODE, PLEASE SEE THE ONES IN THE FOLDERS
+
+left this as is for submission purposes!
+
+
+
+
 # CS1290-Exam-2
 Exam 2 
 
