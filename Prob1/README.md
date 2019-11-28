@@ -1,4 +1,4 @@
-1.	Stone Game
+Stone Game
 
 1.	For this problem one must either have Alex pick one value from either end of the array. This problem is similar to the house robbing problem which gives the following recursive equation: 
 dp[i][i + d] = max(p[i] – dp[i + 1][i + d], p[i + d] – dp[i][i + d -1])
